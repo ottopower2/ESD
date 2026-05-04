@@ -1,0 +1,9 @@
+# Messdaten und generierte Dateien
+*.png
+*.json
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
